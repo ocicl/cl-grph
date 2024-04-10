@@ -4,6 +4,6 @@ In-Memory Immutable Graph Structure with Datalog Query Language
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/inconvergent/cl-grph.git |
-| commit  | a613d30                                         |
+| commit  | d6ea9a2                                         |
 | systems | grph                                            |
 |---------+-------------------------------------------------|
